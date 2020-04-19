@@ -21,3 +21,7 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+### Проект
+
+Проект можно посмотреть в интернете на github-pages: [https://ordchr.github.io/russian-travel/](https://ordchr.github.io/russian-travel/)
