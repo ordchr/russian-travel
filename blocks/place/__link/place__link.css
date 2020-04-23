@@ -1,0 +1,23 @@
+.place__link {
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #FFF;
+}
+
+/*.place__link:link {*/
+  /*color: #FFF;*/
+/*}*/
+
+/*.place__link:hover {*/
+  /*color: #FFF;*/
+/*}*/
+
+/*.place__link:visited:hover {*/
+  /*color: #FFF;*/
+/*}*/
+
+/*.place__link:visited {*/
+  /*color: #FFF;*/
+/*}*/
+
