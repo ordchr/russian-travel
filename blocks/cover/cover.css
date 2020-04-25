@@ -1,0 +1,16 @@
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/cover__subtitle.css);
+@import url(./__overlay/cover__overlay.css);
+@import url(./__background/cover__background.css);
+@import url(./__overlay-transparent/cover__overlay-transparent.css);
+
+.cover {
+  background-image: url(../../images/cover/cover-background.png);
+  min-width: 1184px;
+  height: 740px;
+  /*display: grid;*/
+  /*grid-template-columns: 1fr 560px 1fr;*/
+  /*grid-template-rows: repeat(4, 1fr);*/
+  /*justify-items: center;*/
+  margin: 92px auto 0;
+}
