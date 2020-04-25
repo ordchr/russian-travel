@@ -6,8 +6,9 @@
   display: flex;
   justify-content: space-between;
   /*flex-direction: row;*/
-  width: 1184px;
+  /*width: 1184px;*/
   min-height: 52px;
-  padding-top: 28px;
+  /*padding-top: 28px;*/
   margin: 0 auto;
+  padding: 0 48px;
 }

@@ -6,11 +6,8 @@
 
 .cover {
   background-image: url(../../images/cover/cover-background.png);
-  min-width: 1184px;
-  height: 740px;
-  /*display: grid;*/
-  /*grid-template-columns: 1fr 560px 1fr;*/
-  /*grid-template-rows: repeat(4, 1fr);*/
-  /*justify-items: center;*/
+  background-size: cover;
+  background-position: center;
+  /*min-height: 740px;*/
   margin: 92px auto 0;
 }

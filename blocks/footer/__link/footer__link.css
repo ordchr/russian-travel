@@ -1,0 +1,23 @@
+.footer__link {
+  display: inline;
+  margin: 0 18px 0 0;
+  color: #FFF;
+  text-decoration-line: none;
+}
+
+.footer__link:link {
+  color: #FFF;
+}
+
+.footer__link:hover {
+  color: #FFF;
+}
+
+.footer__link:visited:hover {
+  color: #FFF;
+}
+
+.footer__link:visited {
+  color: #FFF;
+}
+
