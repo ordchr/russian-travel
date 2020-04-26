@@ -47,14 +47,14 @@
 @media screen and ( max-width: 650px ) {
   .photo-grid {
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(12, minmax(216px, 1fr));
+    grid-template-rows: repeat(12, minmax(350px, 1fr));
   }
 }
 
 @media screen and ( max-width: 500px ) {
   .photo-grid {
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(12, minmax(216px, 1fr));
+    grid-template-rows: repeat(12, minmax(250px, 1fr));
   }
 }
 
