@@ -1,6 +1,7 @@
 @import url(./__links/footer__links.css);
 @import url(./__link/footer__link.css);
 @import url(./__copyright/footer__copyright.css);
+@import url(./__links-elem/footer__links-elem.css);
 
 .footer {
   margin: 92px auto 24px;
