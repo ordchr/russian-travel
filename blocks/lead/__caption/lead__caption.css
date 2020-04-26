@@ -8,4 +8,18 @@
   align-self: flex-start;
   /*margin: 8px 0 0;*/
   /*padding-left: 148px;*/
+  margin: 8px 0 0;
+}
+
+@media screen and ( max-width: 768px ) {
+  .lead__caption {
+    margin: 0 24px;
+  }
+}
+
+@media screen and ( max-width: 320px ) {
+  .lead__caption {
+    margin: 0 16px;
+  }
+
 }

@@ -5,6 +5,18 @@
   color: #FFF;
 }
 
+.place__link:hover {
+  cursor: pointer;
+  cursor: url('../../../images/pointer.svg'), auto;
+}
+
+@media screen and (max-width: 768px) {
+  .place__link {
+    font-size: 2vw;
+    line-height: 2.8vw;
+  }
+}
+
 /*.place__link:link {*/
   /*color: #FFF;*/
 /*}*/

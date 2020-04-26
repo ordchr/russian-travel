@@ -1,10 +1,10 @@
 .cover__overlay {
   width: 100%;
-  min-height: 740px;
+  height: 100%;
   background-color: rgba(42, 44, 47, 0.3);
-  /*grid-column: 1 / -1;*/
-  /*grid-row: 1 / -1;*/
-  /*z-index: 1;*/
+  position: absolute;
+  top: 0;
+  left: 0;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -14,11 +14,20 @@
 .cover__overlay:hover {
   background-color: rgba(42, 44, 47, 0.8);
   cursor: pointer;
-  cursor: url('./pointer.svg'), auto;
+  cursor: url('../../../images/pointer.svg'), auto;
 }
 
 @media screen and ( max-width: 1024px ) {
   .cover__overlay {
-    min-height: 640px;
+  }
+}
+
+@media screen and ( max-width: 768px ) {
+  .cover__overlay {
+  }
+}
+
+@media screen and ( max-width: 320px ) {
+  .cover__overlay {
   }
 }

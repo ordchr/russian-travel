@@ -11,6 +11,8 @@
 
 .footer__link:hover {
   color: #FFF;
+  cursor: pointer;
+  cursor: url('../../../images/pointer.svg'), auto;
 }
 
 .footer__link:visited:hover {

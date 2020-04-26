@@ -1,3 +1,5 @@
+@import url(./_lang/header__lang-link_lang_ru.css);
+
 .header__lang-link {
   /*display: inline;*/
   color: #fff;
@@ -10,5 +12,5 @@
 }
 
 .header__lang-link:first-child {
-  text-decoration-line: underline;
+  margin-left: 0; 
 }
