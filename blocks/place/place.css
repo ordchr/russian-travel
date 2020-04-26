@@ -21,7 +21,6 @@
     grid-template-columns: 43vw 1fr;
     grid-template-rows: 152px 1fr;
     max-width: 928px;
-    /*margin: 0 24px;*/
     grid-column-gap: 32px;
   }
 }
@@ -31,8 +30,6 @@
     grid-template-columns: 44vw 44vw;
     grid-template-rows: 92px 1fr;
     grid-column-gap: 3.6vw;
-    /*margin: 0 3vw;*/
-    /*max-width: 80vw;*/
   }
 }
 
@@ -43,6 +40,5 @@
     grid-template-rows: 35px 320px 1fr;
     grid-row-gap: 32px;
     margin-bottom: 48px;
-    /*margin: 0 16px;*/
   }
 }

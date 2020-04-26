@@ -17,17 +17,3 @@
   cursor: url('../../../images/pointer.svg'), auto;
 }
 
-@media screen and ( max-width: 1024px ) {
-  .cover__overlay {
-  }
-}
-
-@media screen and ( max-width: 768px ) {
-  .cover__overlay {
-  }
-}
-
-@media screen and ( max-width: 320px ) {
-  .cover__overlay {
-  }
-}
